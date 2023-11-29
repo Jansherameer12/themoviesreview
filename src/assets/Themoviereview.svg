@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <!-- Background Rectangle with Padding -->
+  <rect x="5%" y="5%" width="90%" height="90%" fill="#2c3e50" />
+
+  <!-- Film Reel Icon (Circle) -->
+  <circle cx="60" cy="40" r="20" fill="#e74c3c" />
+
+  <!-- Film Reel Spokes -->
+  <line x1="60" y1="25" x2="60" y2="55" stroke="#fff" stroke-width="3" />
+  <line x1="47" y1="40" x2="73" y2="40" stroke="#fff" stroke-width="3" />
+
+  <!-- Text Element with Padding -->
+  <text x="60%" y="50%" font-family="Arial, sans-serif" font-size="24" fill="#ecf0f1" text-anchor="middle" dominant-baseline="middle"> Movie Reviews</text>
+</svg>
